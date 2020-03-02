@@ -1,6 +1,6 @@
 # Project summary:
 
-Web Comic Downloader is a simple python project to web comics from the internet. Currently is supports [TwoKinds](http://twokinds.keenspot.com/), and [Harpy Gee](https://www.harpygee.com/).
+Web Comic Downloader is a simple python project to web comics from the internet. Currently, it supports [TwoKinds](http://twokinds.keenspot.com/), and [Harpy Gee](https://www.harpygee.com/).
 
 The WCDL Project was planned to be completed in less than one day, and only had a few basic requirements:
 
