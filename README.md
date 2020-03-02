@@ -1,0 +1,2 @@
+# WCDL
+Web Comic Downloader
