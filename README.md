@@ -6,7 +6,7 @@ Web Comic Downloader is a simple python project to download webcomics from the i
 The WCDL Project was completed in less than one day, and only had a few basic requirements:
 
 *   **Modularity:** Support for additional comics could be added later.
-*   **Non-redundant:**The program keeps track of the already downloaded pages, and only checks and downloads new ones.
+*   **Non-redundant:** The program keeps track of the already downloaded pages, and only checks and downloads new ones.
 
 How to use:
 ===========
